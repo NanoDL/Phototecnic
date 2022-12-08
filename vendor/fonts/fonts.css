@@ -1,8 +1,14 @@
 @font-face {
-  font-family: '';  /* Название шрифта */ 
-  src: url('./') format('woff2'), /* Путь к расположению шрифта */ 
-       url('./') format('woff');
+  font-family: 'Roboto-Bold';  /* Название шрифта */ 
+  src: url('/vendor/fonts/Roboto/Roboto-Bold.ttf') format('truetype'); /* Путь к расположению шрифта */ 
   font-weight: 400; /* Толщина шрифта */ 
   font-style: normal; /* Стиль шрифта */ 
-  font-display: swap; /* Отображение шрифта */ 
+ font-display: swap; /* Отображение шрифта */
+}
+@font-face {
+  font-family: 'Playfair Display';  /* Название шрифта */ 
+  src: url('/vendor/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf') format('truetype'); /* Путь к расположению шрифта */ 
+  font-weight: 400; /* Толщина шрифта */ 
+  font-style: normal; /* Стиль шрифта */ 
+ font-display: swap; /* Отображение шрифта */
 }

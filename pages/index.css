@@ -6,6 +6,8 @@
 /* Header */ 
 @import '../blocks/header/header.css';
 @import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__nav-list/header__nav-list.css';
+@import '../blocks/header/__nav-list/header__nav-item.css';
 /* Main */
 @import '../blocks/main/main.css';
 /* Footer */

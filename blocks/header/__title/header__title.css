@@ -1,3 +1,14 @@
 .header__title{
-  
+    margin: 0;
+    margin-top: 92px;
+    font-family: 'Roboto-Bold';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 96px;
+    line-height: 112.5px;
+    text-align: center;
+    /* identical to box height */
+    
+    letter-spacing: 0.03em;
+    color: #ffffff;
 }
