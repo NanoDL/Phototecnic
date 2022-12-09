@@ -1,12 +1,7 @@
-.header__nav-list{
-    margin: 0;
-    list-style-type: none;
-    padding-top: 30px;
-    padding-left: 40px;
-}
+
 .header__nav-list li{
-    display: inline;
     
+  
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: 400;
@@ -16,4 +11,13 @@
 
     
     color: #FFFFFF;
+}
+.header__nav-list{
+    margin: 0;
+    list-style-type: none;
+    padding-top: 30px;
+    padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    width: 45.9%;
 }

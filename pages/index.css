@@ -8,6 +8,12 @@
 @import '../blocks/header/__title/header__title.css';
 @import '../blocks/header/__nav-list/header__nav-list.css';
 @import '../blocks/header/__nav-list/header__nav-item.css';
+@import '../blocks/container/container.css';
+@import '../blocks/header/__citata/header__citata.css';
+@import '../blocks/main/__Nikon-back/main__Nikon-back.css';
+@import '../blocks/main/__Nikon/main__Nikon.css';
+@import '../blocks/main/__Nikon-title/main__Nikon-title.css';
+@import '../blocks/main/__Nikon-text/main__Nikon-text.css';
 /* Main */
 @import '../blocks/main/main.css';
 /* Footer */
