@@ -3,6 +3,7 @@
 @import '../vendor/fonts/fonts.css';
 /* Blocks */ 
 @import '../blocks/page/page.css';
+@import '../blocks/container/container.css';
 /* Header */ 
 @import '../blocks/header/header.css';
 @import '../blocks/header/__title/header__title.css';
@@ -16,5 +17,10 @@
 @import '../blocks/main/__Nikon-text/main__Nikon-text.css';
 /* Main */
 @import '../blocks/main/main.css';
+@import '../blocks/zerkalki/__title/zerkalki__title.css';
+@import '../blocks/zerkalki-photos/__item/zerkalki-photos__item.css';
+@import '../blocks/zerkalki-photos/__item-title/zerkalki-photos__item-title.css';
+@import '../blocks/zerkalki-photos/zerkalki-photos.css';
+@import '../blocks/zerkalki-photos/__item-line/zerkalki-photos__item-line.css';
 /* Footer */
 @import '../blocks/footer/footer.css';
