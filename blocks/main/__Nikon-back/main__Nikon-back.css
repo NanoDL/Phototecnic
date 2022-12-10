@@ -1,5 +1,5 @@
 .main__Nikon-back{
-    background-image: url(/images/asideleft1.png), url(/images/asideleft2.png),url(/images/asideright1.png),url(/images/asideright2.png);
+    background-image: url('../../../images/asideleft1.png'), url('../../../images/asideleft2.png'),url('../../../images/asideright1.png'),url('../../../images/asideright2.png');
     background-position: top left,bottom left, top right, bottom right;
     background-repeat: no-repeat;
     height: 670px;
