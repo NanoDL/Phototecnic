@@ -1,27 +1,27 @@
 @font-face {
   font-family: 'Roboto-Bold';  /* Название шрифта */ 
-  src: url('/vendor/fonts/Roboto/Roboto-Bold.ttf') format('truetype'); /* Путь к расположению шрифта */ 
+  src: url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype'); /* Путь к расположению шрифта */ 
   font-weight: 400; /* Толщина шрифта */ 
   font-style: normal; /* Стиль шрифта */ 
  font-display: swap; /* Отображение шрифта */
 }
 @font-face {
   font-family: 'Roboto-Italic';  /* Название шрифта */ 
-  src: url('/vendor/fonts/Roboto/Roboto-Italic.ttf') format('truetype'); /* Путь к расположению шрифта */ 
+  src: url('../fonts/Roboto/Roboto-Italic.ttf') format('truetype'); /* Путь к расположению шрифта */ 
   font-weight: 400; /* Толщина шрифта */ 
   font-style: italic; /* Стиль шрифта */ 
  font-display: swap; /* Отображение шрифта */
 }
 @font-face {
   font-family: 'Playfair Display';  /* Название шрифта */ 
-  src: url('/vendor/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf') format('truetype'); /* Путь к расположению шрифта */ 
+  src: url('../fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf') format('truetype'); /* Путь к расположению шрифта */ 
   font-weight: 400; /* Толщина шрифта */ 
   font-style: normal; /* Стиль шрифта */ 
  font-display: swap; /* Отображение шрифта */
 }
 @font-face {
   font-family: 'Open Sans';  /* Название шрифта */ 
-  src: url('/vendor/fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf') format('truetype'); /* Путь к расположению шрифта */ 
+  src: url('../fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf') format('truetype'); /* Путь к расположению шрифта */ 
   font-weight: 400; /* Толщина шрифта */ 
   font-style: normal; /* Стиль шрифта */ 
  font-display: swap; /* Отображение шрифта */
