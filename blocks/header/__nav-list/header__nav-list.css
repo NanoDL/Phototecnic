@@ -1,17 +1,4 @@
 
-.header__nav-list li{
-    
-  
-    font-family: 'Playfair Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 43px;
-    /* identical to box height */
-
-    
-    color: #FFFFFF;
-}
 .header__nav-list{
     margin: 0;
     list-style-type: none;
@@ -19,5 +6,6 @@
     padding-left: 40px;
     display: flex;
     justify-content: space-between;
+    gap: 1.72%;
     width: 45.9%;
 }

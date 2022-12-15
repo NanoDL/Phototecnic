@@ -8,7 +8,7 @@
 @import '../blocks/header/header.css';
 @import '../blocks/header/__title/header__title.css';
 @import '../blocks/header/__nav-list/header__nav-list.css';
-@import '../blocks/header/__nav-list/header__nav-item.css';
+@import '../blocks/header/__nav-item/header__nav-item.css';
 @import '../blocks/container/container.css';
 @import '../blocks/header/__citata/header__citata.css';
 /* Main */
